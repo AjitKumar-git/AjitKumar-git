@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Ajit Kumar (@AjitKumar-git)  
+- 👀 I’m interested in open-source projects, bioinformatics, and full-stack web development.  
+- 🌱 I’m currently learning advanced data analysis techniques, machine learning applications in bioprocess engineering, and KDE Plasma development.  
+- 💞️ I’m looking to collaborate on projects involving bacterial species data, environmental modeling, or tools to improve biological workflows.  
+- 📫 How to reach me:  
+  - Email: meajitsheoran@gmail.com  
+  - Phone: +91 7876644399  
+  - LinkedIn: [Ajit Kumar](https://www.linkedin.com/in/ajitkumar)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love integrating biology with technology and have a knack for creating interactive tools like fan control plasmoids or route-planning applications!  

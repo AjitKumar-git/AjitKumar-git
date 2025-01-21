@@ -5,6 +5,6 @@
 - 📫 How to reach me:  
   - Email: meajitsheoran@gmail.com  
   - Phone: +91 7876644399  
-  - LinkedIn: [Ajit Kumar]([https://www.linkedin.com/in/ajitkumar](https://www.linkedin.com/in/ajit-kumar-9578951a5/))  
+  - LinkedIn: [Ajit Kumar](https://www.linkedin.com/in/ajit-kumar-9578951a5)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love integrating biology with technology and have a knack for creating interactive tools like fan control plasmoids or route-planning applications!  
